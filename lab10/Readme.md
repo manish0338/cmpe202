@@ -6,4 +6,3 @@
 ![img6](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(45).png)
 ![img7](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(45).png)
 ![img1](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(46).png)
-![img1](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(47).png)
