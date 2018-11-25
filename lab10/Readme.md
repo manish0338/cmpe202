@@ -30,5 +30,5 @@ In Lab10 we are printing part of output using AspectJ. Config file is used to co
 
 <h3>COINS50 config - console output</h3>
 
-![img7](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(45).png)  
+![img7](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(46).png)  
 
