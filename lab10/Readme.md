@@ -16,8 +16,12 @@ In Lab10 we are printing part of output using AspectJ. Config file is used to co
 
 ![img3](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(42).png)  
 
+<h3>QTR50 config</h3>
 
 ![img4](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(43).png)  
+
+<h3>QTR50 config - console output</h3>
+
 ![img5](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(44).png)  
 ![img6](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(45).png)  
 ![img7](https://github.com/manish0338/cmpe202/raw/master/lab10/screenshots/Screenshot%20(45).png)  
